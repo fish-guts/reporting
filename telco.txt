@@ -1,0 +1,45 @@
+beat telco, 15.07.2015
+
+stories formell gut, wenig zu kritisieren
+es braucht noch ergänzung: bei einigen stories sind granular eher zu grob
+us-01: details zur story 
+
+us-09: parameters, detaillierter, übergabe der parameter in UI definiert. 
+
+
+aus story anfiorderungen schreiben, z.B. us-09 
+
+3, 4 anforderungen zu parameter, evtl mock vom GUI 
+
+akzeptanzkriterien nicht in story (in diesem fall) sondern in den anforderungen. 
+
+
+non-functionals und technicals in stories packen
+-> akzeptanzkriterien
+
+
+kapitel user stories
+kapitel funtional req
+kapitel non-functional req
+kapitel technicals rep
+
+use case -> sys admin entfernen
+
+
+system kontext aufzeigen
+
+
+
+nächste termine
+
+31.07.2015: 14:00 Uhr per Skype
+12.08.2015: 10:00 Uhr per Skype
+
+design relativ bald loslegen
+zwei varianten (möglichst verschieden, müssen sich auf requirements stützen). 
+z.B. nutzwertanalyse erstellen
+rechere durchführen
+design muss inhaltich solide sein. 
+
+
+immer zuerst gerüst machen, feedback ist einfacher, erst dann inhalt. 
